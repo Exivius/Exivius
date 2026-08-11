@@ -21,6 +21,6 @@ I'm always open to networking and professional opportunities. Feel free to reach
 ---
 
 ###  Actividad reciente
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:Last_update-->
